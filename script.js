@@ -150,12 +150,12 @@ function typeNav(callback) {
   typeNext();
 }
 
-typeWriter('typed-kicker', '// Portfolio', 100, () => {
+typeWriter('typed-kicker', '// Portfolio', 90, () => {
   typeWriter('typed-name', "To'lanboy Xakimov", 90, () => {
     typeWriter(
       'typed-tagline',
       "Software Engineer — veb-saytlar va ilovalar yasashga qiziqaman. Frontend va backend bo'yicha ishlashni yoqtiraman.",
-      40,
+      25,
       () => {
         typeNav();
       }
