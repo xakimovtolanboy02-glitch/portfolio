@@ -205,17 +205,6 @@ footer { animation-delay: 0.9s; }
   }
 }
 
-:root {
-  --ink: #e8ebe6;
-  --paper: #14171a;
-  --panel: #1b1f23;
-  --moss: #5eead4;
-  --moss-dark: #2dd4bf;
-  --clay: #f0a05c;
-  --line: #2a2f34;
-  --muted: #8b9198;
-}
-
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
 body {
