@@ -340,6 +340,7 @@ section h2 {
   margin-top: 1.5rem;
   display: flex;
   flex-direction: column;
+  align-items: flex-start;
   gap: 0.8rem;
   font-family: 'JetBrains Mono', monospace;
   font-size: 0.95rem;
